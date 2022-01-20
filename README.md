@@ -11,7 +11,7 @@ Your ip adress or domain :
 
 Create a shortcut in desktop and copy this in "target" in property menu :
 
-`C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --unsafely-treat-insecure-origin-as-secure="[URL]`
+```C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --unsafely-treat-insecure-origin-as-secure="[URL]```
 
 ```
 /usr/lib
