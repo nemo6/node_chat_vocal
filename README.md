@@ -12,3 +12,12 @@ Your ip adress or domain :
 Create a shortcut in desktop and copy this in "target" in property menu :
 
 "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --unsafely-treat-insecure-origin-as-secure="[URL]"
+
+/usr/lib
+├── body-parser@1.19.0
+├── corepack@0.10.0
+├── cors@2.8.5
+├── express@4.17.1
+├── intl@1.2.5
+├── npm@8.1.0
+└── socket.io@4.1.2
