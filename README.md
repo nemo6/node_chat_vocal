@@ -1,4 +1,4 @@
-# node_chat_vocal
+# Chat vocal with Node.js
 
 Firefox : go to about:config set to true
 media.devices.insecure.enabled
