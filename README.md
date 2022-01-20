@@ -4,7 +4,7 @@
 media.devices.insecure.enabled<br>
 media.getusermedia.insecure.enabled
 
-`Google Chrome`
+`Google Chrome` :
 
 Your ip adress or domain :<br>
 [URL] = `http://xxx.xxx.xxx.xx:8080/`
