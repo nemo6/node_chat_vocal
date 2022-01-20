@@ -1,15 +1,15 @@
 # Chat vocal with Node.js
 
-Firefox : go to about:config set to true<br>
+`Firefox` : go to about:config set to true<br>
 media.devices.insecure.enabled<br>
 media.getusermedia.insecure.enabled
 
-Google Chrome :
+`Google Chrome`
 
 Your ip adress or domain :<br>
-[URL] = "http://xxx.xxx.xxx.xx:8080/"
+[URL] = `http://xxx.xxx.xxx.xx:8080/`
 
-Create a shortcut in desktop and copy this in "target" in property menu :<br>
+Create a shortcut in desktop and copy this in `target` in property menu :<br>
 
 ```
 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --unsafely-treat-insecure-origin-as-secure="[URL]
