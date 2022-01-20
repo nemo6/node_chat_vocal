@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Hello</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+<header>
+    <div class="user-controller">
+        <p id="username-label"></p>
+        <div id="username-div">
+            <input type="text" id="username">
+            <button class="username-btn" onclick="changeUsername()">Change username</button>
+
+        </div>
+    </div>
+
+    <div class="controller">
+        <button class="control-btn disable-btn" onclick="toggleMicrophone(this)">Open microphone</button>
+        <button class="control-btn disable-btn" onclick="toggleMute(this)">Mute</button>
+        <button class="control-btn disable-btn" onclick="toggleConnection(this)">Go online</button>
+    </div>
+
+</header>
+<h2>users list</h2>
+<ul class="users" id="users">
+
+</ul>
+</body>
+</html>
+<script src="/socket.io/socket.io.js"></script>
+<script src="front.js"></script>
