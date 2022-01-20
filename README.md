@@ -12,7 +12,7 @@ Your ip adress or domain :<br>
 Create a shortcut in desktop and copy this in `target` in property menu :<br>
 
 ```
-C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --unsafely-treat-insecure-origin-as-secure="[URL]
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --unsafely-treat-insecure-origin-as-secure="[URL]"
 ```
 
 ```
