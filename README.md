@@ -1,6 +1,6 @@
 # Chat vocal with Node.js
 
-`Firefox` : go to about:config set to true<br><br>
+`Firefox` : go to url `about:config` set to true<br><br>
 media.devices.insecure.enabled<br>
 media.getusermedia.insecure.enabled
 
